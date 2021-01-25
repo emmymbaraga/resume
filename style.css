@@ -5,7 +5,7 @@ body {
     background-color: #474e5d;
     padding:5px;
     
-
+    /**use of overflow: hidden???;**/
   }
   p {font-size: 16px;}
   .margin {
@@ -48,11 +48,10 @@ body {
     color: #1abc9c !important;
   }
 li a .navbar-nav {
-  color:Black;
+  color: black;
 }
 .button{
   color: #0c0c0c;
 }
 
-  
   
