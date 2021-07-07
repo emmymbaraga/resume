@@ -4,9 +4,12 @@ body {
     color: #edf0f3;
     background-color: #474e5d;
     padding:5px;
+    position: relative;
+    	margin: 0;
+}
     
     /**use of overflow: hidden???;**/
-  }
+  
   p {font-size: 16px;}
   .margin {
     margin-top: 0px;
@@ -53,6 +56,12 @@ li a .navbar-nav {
 .button{
   color: #0c0c0c;
 }
+/*added styles*/
+img{
+  width: 20em;
+  height: 200px;
+}
+/*end of added styles*/
 /* Style all font awesome icons */
 .fa {
   padding: 10px;
